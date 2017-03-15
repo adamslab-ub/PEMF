@@ -20,7 +20,13 @@ Predictive Estimation of Model Fidelity (PEMF) is a model-independent approach t
 
 %       put it inside the "/Models" subfolder
 
-%
+%    Included Model codes: Radial Basis Functions or RBF (with 5 different Kernels)
+
+%    Third-Party Models tested: Kriging (DACE) and SVR (LibSVM). They can be found at:
+
+%    DACE: http://www2.imm.dtu.dk/projects/dace/
+
+%    LibSVM: https://www.csie.ntu.edu.tw/~cjlin/libsvm/
 
 %      >Try the example demo_PEMF (under the Examples directory) to learn how to use PEMF
 
