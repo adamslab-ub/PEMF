@@ -120,6 +120,7 @@ surrogate_trainer, should be @train_model (following the convention shown above)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %    For further explaination of PEMF's optional inputs, refer to the PEMF paper. "Predictive quantification of surrogate model fidelity based on modal variations with sample density." by Chowdhury and Mehmani. DOI: 10.1007/s00158-015-1234-z
+http://link.springer.com/article/10.1007/s00158-015-1234-z
 
 %    The above article and its citation (bibtex) can be found at: http://adams.eng.buffalo.edu/publications/
     
